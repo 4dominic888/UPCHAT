@@ -11,5 +11,5 @@ ___
 
 [Documento ECUN](https://comunidadupnedu-my.sharepoint.com/:w:/g/personal/n00284647_upn_pe/EVboCYuxAehAgPnAg-tXTbkBjRCy_fQRlGax-tzl4Gkjgg?e=TIWEyd)
 
-[Cronograma de actividades]()
+[Cronograma de actividades](https://comunidadupnedu-my.sharepoint.com/:x:/g/personal/n00284647_upn_pe/EUPjQJSzloJEghPiv-xQRgUBTM0M-omBddoeNboWMS7c5g?e=rvlybO)
 
