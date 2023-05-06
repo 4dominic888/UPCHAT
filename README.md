@@ -5,7 +5,7 @@ ___
 
 [Informe general](https://comunidadupnedu-my.sharepoint.com/:w:/g/personal/n00285693_upn_pe/EQDVqFOxmzhIucfx4Jal0AcBkLmBFPmhtd_ehe3uNrKVsg?e=WowPR9)
 
-[Documento glosario](https://comunidadupnedu-my.sharepoint.com/:w:/g/personal/n00284647_upn_pe/EUVE0OQYB8xMvA-AUeJG8CEBoCttbOqiuOE7-JjU-cwZIw?e=r3UYVX)
+[Documento glosario](https://comunidadupnedu-my.sharepoint.com/:w:/g/personal/n00285693_upn_pe/EXtWb0Pb8S9Nnp2lT8lva4YBqtRtZt-NgH0osco6rWgdpQ?e=1N8aK1)
 
 [Documento reglas de negocio](https://comunidadupnedu-my.sharepoint.com/:w:/g/personal/n00284647_upn_pe/Ef3Wc-UtJ-hCqKI1IHEdykMBU56Ppd45a9HYee-_yaWeIA?e=fMHojO)
 
