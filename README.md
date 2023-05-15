@@ -13,3 +13,6 @@ ___
 
 [Cronograma de actividades](https://comunidadupnedu-my.sharepoint.com/:x:/g/personal/n00284647_upn_pe/EUPjQJSzloJEghPiv-xQRgUBTM0M-omBddoeNboWMS7c5g?e=rvlybO)
 
+**NUEVO**
+
+[Matriz de trazabilidad "Requerimientos"](https://docs.google.com/spreadsheets/d/1USD375RgdDLkcrbAqMznaZQkJxc8scA_6cLzxb3il9I/edit?usp=sharing)
