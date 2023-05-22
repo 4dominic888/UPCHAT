@@ -18,3 +18,5 @@ ___
 [Matriz de trazabilidad "Requerimientos"](https://docs.google.com/spreadsheets/d/1USD375RgdDLkcrbAqMznaZQkJxc8scA_6cLzxb3il9I/edit?usp=sharing)
 
 [Documento visión](https://docs.google.com/document/d/13Py52JCZXpsL8EgPE-3rnp8hEyxsGhYf/edit?usp=sharing&ouid=110572308531776728567&rtpof=true&sd=true)
+
+[Matriz actividades](https://docs.google.com/spreadsheets/d/1CVbEP4HjCo4G4ZMcHLiFUU3IBguiI_ST/edit?usp=share_link&ouid=110572308531776728567&rtpof=true&sd=true)
